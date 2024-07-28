@@ -25,7 +25,7 @@ export default function AppSignin(props){
                     // Signed in 
                     const user = userCredential.user;
                     Alert.alert('succesfull')
-                    props.navigation.navigate('AppTopTab')
+                    props.navigation.navigate('AppTopTab', { email: email })
                     // ...
                   })
                   .catch((error) => {

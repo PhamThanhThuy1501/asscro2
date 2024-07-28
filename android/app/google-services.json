@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "617758511161",
-    "project_id": "take-note-31da0",
-    "storage_bucket": "take-note-31da0.appspot.com"
+    "project_number": "1080281870026",
+    "project_id": "asm-ph45142-f05e8",
+    "storage_bucket": "asm-ph45142-f05e8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617758511161:android:49ef514569b482916c7de8",
+        "mobilesdk_app_id": "1:1080281870026:android:16cee81f58105ab8510e33",
         "android_client_info": {
           "package_name": "com.demo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDWhmLElxEiSFZyML4APrsvrIvxjEvald4"
+          "current_key": "AIzaSyBW9tirM2VGPDX7l9KO9NZoksTPl0Ajmvk"
         }
       ],
       "services": {

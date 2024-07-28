@@ -140,11 +140,10 @@ createUserWithEmailAndPassword(email, pass)
                     </View>
                     </ScrollView>
             <TouchableOpacity style={st.bt} onPress={signin}>
-                <Text style={{color:'white',fontSize:17}}>Đăng nhập</Text>
+                <Text style={{color:'white',fontSize:17}}>Đăng kí</Text>
             </TouchableOpacity>
             <View style={{flexDirection:"row",marginBottom:'5%',alignSelf:"center",marginTop:'5%'}}>
-                <Text>Didn’t have an account? </Text>
-                <Text style={{color:'red'}} >Sign up</Text>
+               
             </View>
             </View>
     )
